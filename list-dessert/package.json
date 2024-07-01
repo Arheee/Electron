@@ -1,0 +1,16 @@
+{
+  "name": "vacuous-direction-differ-3ya9s",
+  "productName": "vacuous-direction-differ-3ya9s",
+  "description": "My Electron application description",
+  "keywords": [],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "author": "Administrateur",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "30.0.2"
+  }
+}
